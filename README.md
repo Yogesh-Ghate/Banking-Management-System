@@ -138,11 +138,32 @@ The “Banking Online System is a big and ambitious project. I am thankful for b
 2- Customer issues development based on their needs, so the help desk will be aware of their needs and easy to use. 
 3- Developing a mobile App for banking system that help users to do the obtained his operations without go to the bank only he needs to sign in using his A/C NO. And password and then use your own PIN. Finally the system will update automatically. 
 
-                                           Conclusion
+                                    Conclusion
 
 This project is developed to nurture the needs of a user in a banking sector by embedding all the tasks of transactions taking place in a bank. Future version of this project will still be much enhanced than the current version. Writing and depositing checks are perhaps the most fundamental ways to move money in and out of a checking account, but advancements in technology have added ATM and debit card transactions. All banks have rules about how long it takes to access your deposits, how many debit card transactions you're allowed in a day, and how much cash you can withdraw from an ATM. Access to the balance in your checking account can also be limited by businesses that place holds on your funds. 
 
 Banks are providing internet banking services also so that the customers can be attracted. By asking the bank employs we came to know that maximum numbers of internet bank account holders are youth and business man. Online banking is an innovative tool that is fast becoming a necessity. It is a successful strategic weapon for banks to remain profitable in a volatile and competitive marketplace of today. If proper training should be given to customer by the bank employs to open an account will be beneficial secondly the website should be made friendlier from where the customers can directly make and access their accounts. 
 Thus, the Bank Management System it is developed and executed successfully. 
 
+                                      output
+![Screenshot (140)](https://github.com/Yogesh-Ghate/Banking-Management-System/assets/61980253/b458e050-448b-4d40-9fde-9338e66150c4)
 
+![Screenshot (139)](https://github.com/Yogesh-Ghate/Banking-Management-System/assets/61980253/3e289456-ecb5-4fc1-8026-591ab4fb8862)
+
+![Screenshot (138)](https://github.com/Yogesh-Ghate/Banking-Management-System/assets/61980253/32ba4511-9489-47a7-a436-a57908e8dfd6)
+
+![Screenshot (137)](https://github.com/Yogesh-Ghate/Banking-Management-System/assets/61980253/ec57f84a-7d2e-4814-81c3-331156957a17)
+
+![Screenshot (155)](https://github.com/Yogesh-Ghate/Banking-Management-System/assets/61980253/47b29f37-75ed-44bc-bddd-9109ef391e04)
+
+![Screenshot (154)](https://github.com/Yogesh-Ghate/Banking-Management-System/assets/61980253/87fbecf3-9634-45f7-be5d-b8059aaeda2a)
+
+![Screenshot (153)](https://github.com/Yogesh-Ghate/Banking-Management-System/assets/61980253/b6335fa8-1b3a-471a-8465-01ed25daa5d5)
+
+![Screenshot (152)](https://github.com/Yogesh-Ghate/Banking-Management-System/assets/61980253/38a2690f-a2ed-4d6b-bd74-2f4a59868277)
+
+![Screenshot (151)](https://github.com/Yogesh-Ghate/Banking-Management-System/assets/61980253/d41af704-df2a-424c-ad05-905219c939ad)
+
+![Screenshot (150)](https://github.com/Yogesh-Ghate/Banking-Management-System/assets/61980253/17ec43c9-171c-48e0-8866-76f39685f2ff)
+
+![Screenshot (149)](https://github.com/Yogesh-Ghate/Banking-Management-System/assets/61980253/eb1bb569-6b97-4515-aee6-31544f702b19)
