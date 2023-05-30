@@ -1,3 +1,9 @@
+// steps to jdbc connection
+//     1. Register the driver
+//     2. Create Connection
+//     3. create statement
+//     4. Execute query
+//     5. close connection
 
 package bank.management.system;
 
